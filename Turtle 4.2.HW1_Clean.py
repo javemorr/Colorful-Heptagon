@@ -1,4 +1,4 @@
-# HOC - Python Workshop #4
+# Colorful-Heptagon
 # Date: 24 Jan 2021
 
 # Use Random, Turtle
